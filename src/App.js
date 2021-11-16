@@ -48,8 +48,8 @@ function App() {
         </HStack>
       </Center>
       <Center bg = "pink" color = "white" padding = {48}>
-        {/* <iframe title = "P5" src="https://editor.p5js.org/JaredGlaub/full/Y0hZKucLW" width="600" height="650"> */}
-        {/* </iframe> */}
+        <iframe title = "P5" src="https://editor.p5js.org/JaredGlaub/full/Y0hZKucLW" width="600" height="650">
+        </iframe>
       </Center>
     </ChakraProvider>
   );
